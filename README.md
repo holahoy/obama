@@ -1,1 +1,1 @@
-I am obama
+I am obam
