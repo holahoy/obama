@@ -1,1 +1,1 @@
-# omaba
+print("Hello obamma")
